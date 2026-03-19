@@ -4,6 +4,8 @@ To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.
 ## APPARATUS REQUIRED
 •	MATLAB
 
+
+
 ## PROCEDURE
 1.	Open MATLAB and click on the icon for SIMULINK as shown below
    <img width="685" height="536" alt="image" src="https://github.com/user-attachments/assets/e7351866-9cbf-4432-83e1-20a44624721c" />
